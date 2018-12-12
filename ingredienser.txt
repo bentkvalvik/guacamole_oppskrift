@@ -2,5 +2,4 @@ Avocado
 Tomat
 Løk
 Chili
-Hvitløk
 Koriander
