@@ -15,3 +15,4 @@
 | Paragraph | Text |
 
 [nettside](https://www.nb.no)
+[fremgangsmåte](https://github.com/bentkvalvik/guacamole_oppskrift)
